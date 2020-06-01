@@ -1,0 +1,107 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,900&display=swap');
+
+body {
+
+    font-family: 'Playfair Display', serif;
+    background: url(https://wallpapershome.ru/images/wallpapers/durochka-4712x2891-anime-19520.jpg) no-repeat center center fixed;
+    padding: 100px 0;
+    background-size: 100%;
+
+
+}
+
+
+
+.container {
+    width: 800px;
+    min-height: 900px;
+    border: 10px solid rgba(5, 238, 255, 0.979);
+    margin: 0 auto;
+    background: #0000007c;
+}
+
+.header {
+    display: flex;
+    height: 250px;
+}
+
+.title-block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    height: 100%;
+    font-size: 40px;
+    background: url(https://image.freepik.com/free-vector/neon-dry-cleaners-glowing-sign-with-shirt-rectangle-frame-dark-brick-wall-background_153629-344.jpg) center center / cover;
+
+}
+
+
+.userpick {
+    display: flex;
+    height: 100%;
+    width: 50%;
+    background: url(https://i.pinimg.com/originals/a1/59/8c/a1598c49bd48b09fdef1d84a7864e658.jpg)center center / cover;
+    border-left: 3px solid #05eefffa;
+}
+
+.nav ul {
+display: flex;
+border: 3px solid rgba(255, 0, 255, 0.767) ;
+}
+
+
+
+.nav li a {
+    display: flex;
+    padding: 20px;
+    text-decoration: none;
+    color: rgb(255, 0, 255);
+    font-weight: bold;
+    border-right: solid rgba(212, 0, 255, 0.212);
+}
+
+.nav li a:hover {
+    background: #ff00ff42;
+    transform: rotateZ(15deg);
+}
+
+.content{
+    width: 80%;
+    padding: 5%;
+    font-size: 20px;
+}
+
+h1 {
+   font-size: 30px;
+   font-weight: bold;
+   margin-bottom: 15px; 
+
+}
+
+p{
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 30px;
+   font-weight: bold;
+   margin-bottom: 15px;
+}
+
+table {
+    border: 5px solid rgb(5, 226, 255);
+}
+
+TD, TH {
+    padding: 5px; /* Поля вокруг текста */
+    border: 1px solid rgb(255, 255, 255); /* Рамка вокруг ячеек */
+}
+
+h3 {
+    font-size: 30px;
+   font-weight: bold;
+   margin-bottom: 15px;
+
+}
