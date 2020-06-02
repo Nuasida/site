@@ -91,7 +91,7 @@ h2 {
 }
 
 table {
-    border: 5px solid rgb(5, 226, 255);
+    border: 5px solid #05e2ff;
 }
 
 TD, TH {
@@ -103,5 +103,14 @@ h3 {
     font-size: 30px;
    font-weight: bold;
    margin-bottom: 15px;
+
+}
+
+.ch {
+    background-color: rgba(48, 30, 151, 0.521);
+}
+
+.dt {
+    background-color: #05e2ff;
 
 }
