@@ -4,7 +4,7 @@
 body {
 
     font-family: 'Playfair Display', serif;
-    background: url(https://wallpapershome.ru/images/wallpapers/durochka-4712x2891-anime-19520.jpg) no-repeat center center fixed;
+    background: url(img/qwe.jpg) no-repeat center center fixed;
     padding: 100px 0;
     background-size: 100%;
 
@@ -33,7 +33,7 @@ body {
     width: 80%;
     height: 100%;
     font-size: 40px;
-    background: url(https://image.freepik.com/free-vector/neon-dry-cleaners-glowing-sign-with-shirt-rectangle-frame-dark-brick-wall-background_153629-344.jpg) center center / cover;
+    background: url(img/asd.jpg) center center / cover;
 
 }
 
@@ -42,7 +42,7 @@ body {
     display: flex;
     height: 100%;
     width: 50%;
-    background: url(https://i.pinimg.com/originals/a1/59/8c/a1598c49bd48b09fdef1d84a7864e658.jpg)center center / cover;
+    background: url(img/zxc.jpg)center center / cover;
     border-left: 3px solid #05eefffa;
 }
 
